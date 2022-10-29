@@ -3,6 +3,7 @@ const kartTemplate = `
         <div class="kart-onyuz">
             <img src="https://via.placeholder.com/100x100?text=?">
         </div>
+
         <div class="kart-arkayuz">
             <img src="">
         </div>
